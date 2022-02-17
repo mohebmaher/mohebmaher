@@ -19,7 +19,7 @@ analysis process and duplicate or replicate the analysis if necessary.
 am a focused professional who has been consistently praised as detail-oriented by my co-workers and
 management.**
 
-### Education:
+## Education:
 
 - **Datacamp**
 > Machine Learning Scientist Career Track | Jan 2020 - Present
@@ -27,5 +27,5 @@ management.**
 - **Udacity**
 > Data Analysis Nanodegree Program | May 2021 - Dec 2021
 
-### Statistics:
+## Statistics:
 [![Moheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohebmaher&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
