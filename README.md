@@ -1,5 +1,5 @@
 ## Hi there, I'm Moheb Maher 👋
-### Digital Marketer | Data Analyst | ML Engineer
+### Data Analyst | ML Engineer
 
 **I am a freelancer part-time data analyst and ML engineer since May 2021 till now, activities & tasks
 include and are not limited to the following:**
