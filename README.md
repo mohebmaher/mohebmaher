@@ -21,11 +21,11 @@ management.**
 
 ### Education:
 
-> **- Datacamp**
->> Machine Learning Scientist Career Track | Jan 2020 - Present
+- **Datacamp**
+> Machine Learning Scientist Career Track | Jan 2020 - Present
 
-> **- Udacity**
->> Data Analysis Nanodegree Program | May 2021 - Dec 2021
+- **Udacity**
+> Data Analysis Nanodegree Program | May 2021 - Dec 2021
 
 ### Statistics:
 [![Moheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohebmaher&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
