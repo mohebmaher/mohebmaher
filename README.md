@@ -19,5 +19,5 @@ analysis process and duplicate or replicate the analysis if necessary.
 am a focused professional who has been consistently praised as detail-oriented by my co-workers and
 management.**
 
-### Stats:
+### Statistics:
 [![Moheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohebmaher&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
