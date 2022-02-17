@@ -22,8 +22,7 @@ management.**
 ### Education:
 
 > **Udacity**
->> Nanodegree, Data Analysis
->> May 2021 - Dec 2021
+>> Nanodegree, Data Analysis | May 2021 - Dec 2021
 
 ### Statistics:
 [![Moheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohebmaher&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
